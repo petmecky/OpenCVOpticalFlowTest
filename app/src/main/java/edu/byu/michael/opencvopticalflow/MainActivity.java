@@ -190,3 +190,5 @@ public class MainActivity extends AppCompatActivity implements CameraBridgeViewB
                 return mGray;
         }
 }
+//These are comments to make a new commit with
+//

@@ -191,4 +191,5 @@ public class MainActivity extends AppCompatActivity implements CameraBridgeViewB
         }
 }
 
-//These are some comments
+//More comments
+//testing

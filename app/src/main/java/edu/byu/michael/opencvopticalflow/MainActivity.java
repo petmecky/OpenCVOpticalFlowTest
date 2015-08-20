@@ -191,4 +191,4 @@ public class MainActivity extends AppCompatActivity implements CameraBridgeViewB
         }
 }
 //These are comments to make a new commit with
-//
+//More comments

@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/mItemPreviewOpticalFlow" android:title="@string/mItemPreviewOpticalFlow"
+        android:orderInCategory="100" android:showAsAction="never" />
+
+    <item android:id="@+id/mItemPreviewKLT" android:title="@string/mItemPreviewKLT"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
